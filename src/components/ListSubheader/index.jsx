@@ -38,7 +38,7 @@ const ListSubheader = (props) => {
 };
 
 ListSubheader.defaultProps = {
-  title: "Edge Functions",
+  title: "Edge Functions List",
   tag: "Tag",
   new: "New",
 };
